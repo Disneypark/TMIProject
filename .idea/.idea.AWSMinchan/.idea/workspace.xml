@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdd36a9c-44df-451a-827d-c247498f58ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Test Scene.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instrument/InstrumentFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Instruments/Bass.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Test_Teleport/Test_GetCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Effects/LineCurve.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Button/ButtonPivot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Test_Teleport/Test_Ray.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_LoadLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Test_Radial/GetMat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Input_ActionFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instrument/InstrumentManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Input.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleGrabLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/UI Manager/UIManagerHSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Button/ButtonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Teleport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Shooting/Assets/Scripts/Tail.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Test Scene.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleAudioVisualizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ControllerPullable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Pointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Test Scene/Global Volume Profile.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ControllerMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/OctaveChangeManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/Editor/SteamVR_Input_ActionManifest_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/UI Manager/UIManagerToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SamplePlayNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Button/ButtonActivate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ControllerSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleCancelNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../AWS/Assets/Scripts/Fader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/TeleportPointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F342DAB-4758-43C6-B2D1-D3F3154F8D67/c7/a31b873f/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/Horizontal Selector/HorizontalSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Title/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ControllerInstrument.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/SoundFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/Sound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Packages/Pointer_VR_/Scripts/SteamInputModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/SoundMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Scripts/Metronome.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Scripts/InstrumentPad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/SoundSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Scripts/Record.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/XR/Settings/Open VR Settings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ControllerPadHit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/Editor/SteamVR_Input_Generator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F342DAB-4758-43C6-B2D1-D3F3154F8D67/8f/054cd61d/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/Editor/HorizontalSelectorEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move/Grab.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instrument/InstrumentMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Scripts/LoopGroupButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleAudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Scripts/Instrument.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7E96583-A03D-4DDF-A10C-236D61B93EDA/d9/989a7583/RaycastHit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Effects/VFXColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Scripts/LoopToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ramp/RampLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Samples/Casio-MT-45-16-Beat.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5984C823-338E-4CA6-9B7A-0CA01115425E/59/d1bb342c/Editor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Test_Radial/Color_Picker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Test_Teleport/Teleporter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleAudioFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.24f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Effects/SoundBandManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/TypeChangeManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ControllerTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Scripts/Inst_VFXscript/VFXbase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ControllerSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JH/Test_Radial/RadialMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ramp/RampRay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StreamingAssets/SteamVR/actions.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.valvesoftware.unity.openvr@9b30d38ac879-1619935764778/Runtime/OpenVRLoader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Effects/SoundBand.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Title/SceneChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/SoundBand2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/SoundBand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/SoundBandManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Effects/LineCurve.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Test_Teleport/Test_GetCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/Horizontal Selector/HorizontalSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Scripts/Instrument.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_LoadLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Button/ButtonManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Button/ButtonPivot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/UI Manager/UIManagerHSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Test_Radial/Color_Picker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InfoRamp/RampLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/TeleportPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleCancelNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Test_Radial/GetMat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleAudio/SamplePlayNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/InstrumentScaleRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/InstrumentScaleLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleAudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Teleport.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Test_Teleport/Test_Ray.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/InstrumentGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/RampBottomGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/PadGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/MetronomGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/RecorderGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/SampleAudioGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/RampTopGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/LoopGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/MenuGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/InstrumentScale.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleGrabLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move/Grab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ControllerInstrument.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Instrument/InstrumentMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Scripts/Inst_VFXscript/VFXbase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleAudio/SampleMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ControllerSample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/Sound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ControllerSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Scripts/Record.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ControllerTransform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ramp/RampRay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/TypeChangeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/OctaveChangeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Scripts/InstrumentPad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ControllerPadHit.cs" />
+        <option value="$PROJECT_DIR$/Assets/JH/Scripts/Metronome.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rhv1UoryBGpmVar7YEzE1oVYhT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdd36a9c-44df-451a-827d-c247498f58ae" name="Default Changelist" comment="" />
+      <created>1619440920165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619440920165</updated>
+      <workItem from="1619440922189" duration="954000" />
+      <workItem from="1619488762351" duration="5494000" />
+      <workItem from="1619518960876" duration="5497000" />
+      <workItem from="1619575520793" duration="9947000" />
+      <workItem from="1619612172100" duration="1549000" />
+      <workItem from="1619660911995" duration="18406000" />
+      <workItem from="1619684759714" duration="63000" />
+      <workItem from="1619689247538" duration="10836000" />
+      <workItem from="1619744445757" duration="23470000" />
+      <workItem from="1619925265917" duration="24257000" />
+      <workItem from="1620001996898" duration="22440000" />
+      <workItem from="1620095711793" duration="4754000" />
+      <workItem from="1620113873177" duration="11630000" />
+      <workItem from="1620195055118" duration="18752000" />
+      <workItem from="1620269794256" duration="24399000" />
+      <workItem from="1620361759952" duration="18585000" />
+      <workItem from="1620529219339" duration="16636000" />
+      <workItem from="1620566764089" duration="8353000" />
+      <workItem from="1620613609775" duration="17968000" />
+      <workItem from="1620695251301" duration="24357000" />
+      <workItem from="1620786711078" duration="23264000" />
+      <workItem from="1620870140263" duration="53000" />
+      <workItem from="1620870208606" duration="69000" />
+      <workItem from="1620888642862" duration="46000" />
+      <workItem from="1620888739541" duration="2596000" />
+      <workItem from="1620905768903" duration="4518000" />
+      <workItem from="1620953420564" duration="24390000" />
+      <workItem from="1621142968192" duration="15647000" />
+      <workItem from="1621210576648" duration="20292000" />
+      <workItem from="1621256389701" duration="68000" />
+      <workItem from="1621297984636" duration="37140000" />
+      <workItem from="1621398302430" duration="19150000" />
+      <workItem from="1621469592575" duration="9147000" />
+      <workItem from="1621499148520" duration="2814000" />
+      <workItem from="1621555058535" duration="1710000" />
+      <workItem from="1621558277366" duration="2510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="243" key="RiderGenerateDialog" timestamp="1621401168288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="243" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621401168288" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1620906036896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620906036896" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1621331494590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621331494590" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621398966930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621398966930" />
+  </component>
+</project>
