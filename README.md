@@ -8,4 +8,7 @@
 
 안녕하세요 박종현 입니다.
 
-TMI프로젝트는 <span style="color:green">'악기를 연주하고 녹음을 하는 방식으로 소리가 쌓이는 과정을 직접 경험하는'</span> 악기 연주 콘텐츠를 만들어 본 프로젝트입니다.
+TMI프로젝트 TRACK MAKER INTERFACE의 약자로
+<span style="color: #2D3748; background-color:#fff5b1;"> '악기를 연주하고 녹음을 하는 방식으로 소리가 쌓이는 과정을 직접 경험하는'</span>
+<font color="green"> '악기를 연주하고 녹음을 하는 방식으로 소리가 쌓이는 과정을 직접 경험하는' </font>
+악기 연주 콘텐츠를 만들어 본 프로젝트입니다.
